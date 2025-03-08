@@ -183,6 +183,9 @@ bottom: 0;
 width: 100%;
 font-size: 0.875rem;
 }
+footer a{
+  color: #00f2ea;
+}
 /*FECHAR | MODAL | OVERLAYY*/
 .overlay {
 display: none;
