@@ -185,6 +185,7 @@ font-size: 0.875rem;
 }
 footer a{
   color: #00f2ea;
+  text-decoration: none;
 }
 /*FECHAR | MODAL | OVERLAYY*/
 .overlay {
