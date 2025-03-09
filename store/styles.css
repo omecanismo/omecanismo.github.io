@@ -141,11 +141,11 @@ color: white;
 background: #222; /* Fundo escuro */
 border-radius: 8px;
 box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-padding: 10px;
+padding: 0px;
 text-align: center;
 width: calc(33.33% - 10px); /* Sempre três por linha */
 max-width: 150px; /* Mantém tamanho fixo */
-border: 1px solid #474747;
+
 }
 /* Imagem do produto */
 .produto img {
@@ -153,6 +153,7 @@ width: 100%;
 max-width: 150px;
 height: auto;
 border-radius: 5px;
+border-radius: 5px 5px 0px 0px;
 }
 /* Nome do produto (quebra em até 2 linhas) */
 .produto h2 {
@@ -165,6 +166,7 @@ display: -webkit-box;
 -webkit-line-clamp: 2; /* Limita a 2 linhas */
 -webkit-box-orient: vertical;
 text-overflow: ellipsis;
+padding: 0px 5px;
 }
 /* Preço */
 .preco {
