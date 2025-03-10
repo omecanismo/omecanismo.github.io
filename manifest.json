@@ -137,36 +137,36 @@
   },
   "shortcuts": [
     {
-      "name": "Pagamentos",
-      "description": "Pagamentos",
-      "url": "/bank/bb.html",
+      "name": "Nikolas Ferreira",
+      "description": "O Cristão e a Politica",
+      "url": "https://s.shopee.com.br/3fpBgj5Nvk",
       "icons": [
         {
-          "src": "shortcuts/pix.svg",
+          "src": "icons/icon96.png",
           "sizes": "96x96",
           "type": "image/png"
         }
       ]
     },
     {
-      "name": "Rádio",
-      "url": "/pages/radio.html",
-      "description": "Playlist",
+      "name": "Guilherme Fiuza",
+      "url": "https://amzn.to/4hjsqzC",
+      "description": "Passaporte 2030",
       "icons": [
         {
-          "src": "shortcuts/playlist.svg",
+          "src": "icons/icon96.png",
           "sizes": "96x96",
           "type": "image/png"
         }
       ]
     },
     {
-      "name": "LoveSongs Momento",
-      "url": "/videos/index.html",
-      "description": "Momento Love Songs",
+      "name": "Nós também não sabemos fazer",
+      "url": "https://amzn.to/41zRoF6",
+      "description": "Livro",
       "icons": [
         {
-          "src": "shortcuts/filme.svg",
+          "src": "icons/icon96.png",
           "sizes": "96x96",
           "type": "image/png"
         }
@@ -241,8 +241,8 @@
     }
   ],
   "categories": [
-    "entertainment",
-    "productivity"
+    "books",
+    "shopping"
   ],
   "share_target": {
     "action": "/shared-content-receiver/",
