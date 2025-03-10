@@ -142,7 +142,7 @@
       "url": "https://s.shopee.com.br/3fpBgj5Nvk",
       "icons": [
         {
-          "src": "icons/icon96.png",
+          "src": "shortcuts/icon96.png",
           "sizes": "96x96",
           "type": "image/png"
         }
@@ -154,7 +154,7 @@
       "description": "Passaporte 2030",
       "icons": [
         {
-          "src": "icons/icon96.png",
+          "src": "shortcuts/icon96.png",
           "sizes": "96x96",
           "type": "image/png"
         }
@@ -166,7 +166,7 @@
       "description": "Livro",
       "icons": [
         {
-          "src": "icons/icon96.png",
+          "src": "shortcuts/icon96.png",
           "sizes": "96x96",
           "type": "image/png"
         }
