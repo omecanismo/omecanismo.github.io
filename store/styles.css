@@ -256,7 +256,7 @@ opacity: 1;
 /*estilo do swiper*/
 .swiper-container {
 width: 95%;
-max-width: 700px;
+max-width: calc(480px - 10px);
 height: auto;
 border-radius: 10px;
 overflow: hidden;
