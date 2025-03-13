@@ -1,13 +1,12 @@
 /* Reset básico */
-@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Wix+Madefor+Text:ital,wght@0,400..800;1,400..800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700&display=swap');
 * {
 margin: 0;
 padding: 0;
 box-sizing: border-box;
-font-family: 'Roboto', sans-serif;
+font-family: 'Wix Madefor Text', sans-serif;
 }
 /* Corpo da página com fundo escuro */
 body {
@@ -219,11 +218,11 @@ animation: surgir 0.4s ease-out;
 .modal strong {
 color: #dc3545;
 font-weight: bold;
-font-family: 'Montserrat', sans-serif;
+font-family: 'Wix Madefor Text', sans-serif;
 }
 .modal p {
-font-family: 'Google Sans', sans-serif;
-font-size: 24px;
+font-family: 'Wix Madefor text', sans-serif;
+font-size: 20px;
 margin-bottom: 15px;
 color: #333;
 font-weight: 600;
