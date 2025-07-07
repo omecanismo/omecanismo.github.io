@@ -6,7 +6,7 @@
 margin: 0;
 padding: 0;
 box-sizing: border-box;
-font-family: 'Wix Madefor Text', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 /* Corpo da página com fundo escuro */
 body {
@@ -219,10 +219,10 @@ line-height: 1.5;
 .modal strong {
 color: #dc3545;
 font-weight: bold;
-font-family: 'Wix Madefor Text', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 .modal p {
-font-family: 'Wix Madefor text', sans-serif;
+font-family: 'Roboto', sans-serif;
 font-size: 20px;
 margin-bottom: 15px;
 color: #333;
