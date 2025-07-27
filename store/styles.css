@@ -277,3 +277,24 @@ user-drag: none; /* Bloqueia o arrastar da imagem */
 -webkit-user-drag: none; /* Bloqueia no WebKit (Chrome, Safari) */
 -webkit-touch-callout: none; /* Impede o menu ao segurar */
 }
+
+/*bancos*/
+
+.bancos-lista {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(64px, 1fr));
+  gap: 1rem;
+  justify-items: center;
+  padding: 1rem;
+}
+
+.bancos-lista img {
+  width: 48px;
+  height: auto;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.bancos-lista img:hover {
+  transform: scale(1.1);
+}
