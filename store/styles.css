@@ -292,6 +292,7 @@ user-drag: none; /* Bloqueia o arrastar da imagem */
   height: auto;
   cursor: pointer;
   transition: transform 0.2s;
+  border-radius: 8px;
 }
 
 .bancos-lista img:hover {
